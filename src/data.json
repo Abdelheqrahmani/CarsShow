@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "model": "Toyota Camry",
+      "make": "Toyota",
+      "year": 2020,
+      "price": 24000,
+      "image": "https://img-optimize.toyota-europe.com/resize/ccis/1280x1280/png/fr/configurationtype/visual-for-grade-selector/product-token/5270f70c-9bec-438f-a67e-3790291c0924/grade/cb7f7026-5a17-4c93-ab5a-16db3e5f647c/body/74469257-47ae-46eb-859d-2c693e6726ca/fallback/true/padding/50,50,50,50/image-quality/70/day-exterior-4.webp"
+    },
+    {
+      "id": 2,
+      "model": "Honda Accord",
+      "make": "Honda",
+      "year": 2019,
+      "price": 22000,
+      "image": "https://carimage.d2cmedia.ca/newcars/cb67994681e4137/Honda/Accord%20Sedan/2024/MjkxNDg1Xk1lZGlhIEdhbGxlcnk/njfVdjxCZSv7FYF-Uo0XkoCEOeDei_3r2Ik7dkjyvm43y71PS0eR2B1ooYFKOYUWGyD5iXbPsOJdKz6yacatDb6Is7zFaMWFHjUjJCpJ33AT57qagFd2pcfOxCuK-541970jmqEfrvqQtLhJo8YAvr_wJxpzIqPnadXsfet9zfqvdHV2IFPAzA/cc_2024HOC010009_01_1280_NH883P.png"
+    },
+    {
+      "id": 3,
+      "model": "Ford Mustang",
+      "make": "Ford",
+      "year": 2021,
+      "price": 35000,
+      "image": "https://www.gpas-cache.ford.com/guid/d5523d74-629a-3de5-89b0-7ae61d072aad.png"
+    },
+    {
+      "id": 4,
+      "model": "Chevrolet Camaro",
+      "make": "Chevrolet",
+      "year": 2020,
+      "price": 33000,
+      "image": "https://media.dealeralchemist.com/jellies/Chevrolet/Camaro/C441903_GLK_Back.png?auto=compress%2Cformat"
+    },
+    {
+      "id": 5,
+      "model": "BMW 3 Series",
+      "make": "BMW",
+      "year": 2021,
+      "price": 42000,
+      "image": "https://www.bmw-me.com/content/dam/bmw/common/all-models/3-series/sedan/2024/navigation/bmw-3-series-ice-lci-modelfinder.png/jcr:content/renditions/cq5dam.resized.img.585.low.time1716813398276.png"
+    },
+    {
+      "id": 6,
+      "model": "Audi A4",
+      "make": "Audi",
+      "year": 2019,
+      "price": 38000,
+      "image": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2017AUC010001/2017AUC01000101.jpg"
+    },
+    {
+      "id": 7,
+      "model": "Mercedes-Benz C-Class",
+      "make": "Mercedes-Benz",
+      "year": 2021,
+      "price": 46000,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/178535/c-class-exterior-right-front-three-quarter.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 8,
+      "model": "Nissan Altima",
+      "make": "Nissan",
+      "year": 2020,
+      "price": 24000,
+      "image": "https://images.dealer.com/ddc/vehicles/2025/Nissan/Altima/Sedan/color/Bluestone%20Pearl-RCF-22,54,151-640-en_US.jpg"
+    },
+    {
+      "id": 9,
+      "model": "Hyundai Sonata",
+      "make": "Hyundai",
+      "year": 2021,
+      "price": 26000,
+      "image": "https://imgd.aeplcdn.com/664x374/cw/cars/discontinued/hyundai/sonata-2011-2015.jpg?q=80"
+    },
+    {
+      "id": 10,
+      "model": "Mazda 6",
+      "make": "Mazda",
+      "year": 2020,
+      "price": 27000,
+      "image": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2018HYC030001/2018HYC03000101.jpg"
+    },
+    {
+      "id": 11,
+      "model": "Kia Optima",
+      "make": "Kia",
+      "year": 2020,
+      "price": 23000,
+      "image": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2020KIC050001/2020KIC05000101.jpg?w=400"
+    },
+    {
+      "id": 12,
+      "model": "Lexus ES 350",
+      "make": "Lexus",
+      "year": 2021,
+      "price": 47000,
+      "image": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2017LEC160001/2017LEC16000101.jpg"
+    },
+    {
+      "id": 13,
+      "model": "Subaru Legacy",
+      "make": "Subaru",
+      "year": 2021,
+      "price": 26000,
+      "image": "https://s7d1.scene7.com/is/image/scom/SAB_default_frontwheelturned_left?$1550wa$"
+    },
+    {
+      "id": 14,
+      "model": "Chrysler 300",
+      "make": "Chrysler",
+      "year": 2020,
+      "price": 29000,
+      "image": "https://medias.fcacanada.ca/jellies/renditions/2023/400x255/CC23_LXCH48_2DE_PW7_APA_XXX_XXX_XXX.df866af3a9ba1631d3d43f0afa6f56d9.png"
+    },
+    {
+      "id": 15,
+      "model": "Volkswagen Passat",
+      "make": "Volkswagen",
+      "year": 2020,
+      "price": 25000,
+      "image": "https://media.vw.mediaservice.avp.tech/media/fast/H4sIAAAAAAAA_y2UzarlRBDHjzPMjLhQVETcy0UYsLrzcZIsDjIzggtRZiHjYhaX6qQ_crrzcbo6yTlZ-UA-hE_hxo0v4MqNG8G6jNDwo6or1emqf9evfx2eLPHw-O3bl9__-8Vn1v5RPTocrvPhcHiP_Y_evvz178__efr-T3_-73763eFJWqKa3uOQ148-6Ae0Gs6zth8dnrHr8PhwePYL47cH4_Dhh0sMM0Ycvu60WuzHX5lGyjovykYXumzyUnR5VinRdEIWTaN0I0yrpKk-ORye_I4hQHccJoN5YeI0prmF9lxmcpdRzbw2WfK6TcQLMpGV8GWKvbU63g_x3s0ZyOK5QIFQHp_jDIhY2JyxaPahwqUTjChntnRXzpYRxcxO4xYrAe1QbBrQrfIhslfFMjKCXXnPK6kbwDHV-wWQ9PHKe2Q1ciQNduAQovLMqekmPDsTyitj6ZrtzCCsFeC21ucSFDrpr4x0FitjlTuCUtPRRFDWjzcBKijFf62C9qMENW2SclCRJF5AJRSrYsRm58ita5KA1mHmGFPbigLadLWbgA5jThl0us8NQmecPD9gtUKCbvXYMzoj-jNjqxBB964cHhCqQYCeXXXNQFNfcTJNtDQWDHaCkxm9HPnuxtIacjBuWw1bgZq-BENqcRmYlSrLzp0MX8V2Q74VYPVY2wWsd-JmGWsQNdhhSvkN7BzzJWPQkU-3EeuUg6XZyhac5urmjK3mWrve9qNgDMcRGZSPCziPDXpwtNX9DdzSeRLQj-GYHkBLidBHKoIEj9HXHYMuni21iqEA31HhcvA9XfhiPuzixnvDfIkNgwrWhJ9cnjLGWu4GfBwkN8BHEqYET1i2bNHikUMW530OAduSxRCUy-0AoZ0vF7a6SfOfBY1BBMYoR47UMef-Bbv1XLPQY20bxhD4vOBRr-z0bXVEBmUs9jDFirUbImZGM1aWEQTSdeSDtlhfJAwYjh3DYHXOYPBaDw9Y6r0Erng3NjDiWi1XGHWoU2BQvSFMY9ChhBkHyyfMFg1XMCLKMTC6thgYU91ZePcyIbaTjhJi5yuuZ9T9uS4YYeW-R96xNcTFjHsBhOrYZkAq1qsF6lyhBZDGS38EMnvGIqJejUXL0Dkri3pXYA3k8XyVQCNWgSNHV3NzaBrLK0fO8cKlo3mpGgcU3ZF1TeQKz3sUc35OlEx2VkBcl2vFoHrkLPsiRgXJr0VfQZqDYimmaEojGVveXiHRWqCDtOrLmkPaFkkI6TZLfYVVecnNWbXhgQarUfLMmGw_PIAuEmGNqeEbrWlt9iu8G2CwYWhSC1u_XnjobISVPjKosAb-n267wprf2K5ixu3YzSBSB3uvi13D7tecBbYTiWhgX1wziG_0uPY8Mwc9ptObn-9fvXqT3b-cQne39V1yJ9lk4s7p3rp0ao7iDsPs8JTiou9aHHTE04s3r7Nv71_cZ_dCyDscedanfhrp9OPDR3eUtI79aHG0QZ9keTdMnQ5Rrz1x1OmH19mdDZNCVuPm9Y30ZdFjq0_Zp485838ru_-3egYAAA.webp?width=648"
+    },
+    {
+      "id": 16,
+      "model": "Acura TLX",
+      "make": "Acura",
+      "year": 2021,
+      "price": 42000,
+      "image": "https://www.acura.com/platform/api/v4/images/Exterior/03?config=M:UB7F0SGW$EC:NH-912P$IC:EN%26width=880"
+    },
+    {
+      "id": 17,
+      "model": "Genesis G70",
+      "make": "Genesis",
+      "year": 2020,
+      "price": 44000,
+      "image": "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb65b48500c1e3d8e88cb10/stills_0640_png/MY2023/51917/51917_st0640_116.png"
+    },
+    {
+      "id": 18,
+      "model": "Infiniti Q50",
+      "make": "Infiniti",
+      "year": 2020,
+      "price": 39000,
+      "image": "https://media.ed.edmunds-media.com/infiniti/q50/2024/oem/2024_infiniti_q50_sedan_luxe_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 19,
+      "model": "Toyota Corolla",
+      "make": "Toyota",
+      "year": 2021,
+      "price": 20000,
+      "image": "https://img-optimize.toyota-europe.com/resize/ccis/680x680/png/fr/configurationtype/visual-for-grade-selector/product-token/65558723-e947-4bd1-8cbf-71337df00eea/grade/5f40ca78-a512-43bf-a21e-009d88d1adce/body/7b77d85b-8f26-4645-82ac-22154a7d6293/fallback/true/padding/50,50,50,50/image-quality/70/day-exterior-4.webp"
+    },
+    {
+      "id": 20,
+      "model": "Honda Civic",
+      "make": "Honda",
+      "year": 2021,
+      "price": 22000,
+      "image": "https://www.groupe-legrand.fr/content/uploads/Honda-Civic-Type-R-Cards-VN-groupe-legrand.png"
+    }
+  ]
+  

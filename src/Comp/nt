@@ -1,0 +1,10 @@
+    <div className="search-bar">
+          <input
+            type="text"
+            placeholder="Search for a car..."
+            className="search-input"
+          />
+          <button className="search-button">
+            <FontAwesomeIcon icon={faSearch} /> {/* Using FontAwesomeIcon */}
+          </button>
+        </div>
